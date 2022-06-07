@@ -9,8 +9,7 @@ I'm currently learning fronend development and I want to start my career in this
 * HTML (basic)
 * CSS (basic)
 ## Code example
-```
-<header>
+``` <header>
     <nav class="navigation">
      <a href="#">О себе</a> 
      <a href="#">Мои работы</a> 
